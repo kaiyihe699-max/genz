@@ -1,1 +1,1 @@
-# genz
+# fintech-app-alpha
